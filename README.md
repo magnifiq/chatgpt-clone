@@ -1,6 +1,6 @@
 # chatgpt-clone
 
---The ChatGPT clobe was created to enhance skills in React and JavaScripts.
+--The ChatGPT clone was created to enhance skills in React and JavaScript.
 
 --The last version was released in 27/03/2023
 
